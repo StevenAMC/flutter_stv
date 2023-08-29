@@ -1,4 +1,4 @@
-# Practicas de flutter
+# Prácticas de flutter
 
 ## Calculadora
 !["Calculadora"](calc.jpeg)
